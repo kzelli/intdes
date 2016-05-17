@@ -33,7 +33,7 @@ Example 4 shows that interruption is possible in this interface. I am describing
                                                         von  d  i  k  hier niet
     Example 4, conversation between me and s1767844
 
-The possibility of interruptions is a similarity to spoken interaction. It depends on the type of interface what kind of overlapping is possible. In interface 1, the users share the same line. An interruption in that interface will cause that the conversation is hard to read and follow, since the words by both users will be mixed together. You can see this effect looking at group B, where this interface got activated in the end.
+The possibility of interruptions is a similarity to spoken interaction. It depends on the type of interface what kind of overlapping is possible. In interface 1, the users share the same line. An interruption in that interface will cause that the conversation is hard to read and follow, since the words by both users will be mixed together. (You can see this effect looking at group B, where this interface got activated in the end:)
 
         b   i g wow      wtf
         arr oga n t   oh god
@@ -42,6 +42,19 @@ The possibility of interruptions is a similarity to spoken interaction. It depen
      hmm  m      j a gek dit 
          go kjewow g         
     Example 6, conversation between s2728591 and s2550954   
+
+In interface 2, the users can use continuer's phrases during their interaction.
+
+     dike wenkbrauwen weerboven li p dondker en midden
+                              j  a                   
+    Example 7, conversation between s3036375 and s2377225
+
+Because it's possible for both users to type at the same time, it allows users to acknowledge what the other is saying and agree or disagree with what they are saying while they're still typing a sentence. When an user disagrees, they have the possibility to take over the conversation after interrupting. 
+
+                 nee  v     bi  j m ij wa ren wenkbrauwe
+    dan links b    w enkbr  au        w     *        
+    Example 8, conversation between s3013022 and s3039161
+
 
 
 Question 2 (30%):  400 words, excluding examples.
